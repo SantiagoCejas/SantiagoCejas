@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Santiago Cejas! 
-- 🌱 I’m currently learning Data Science. I am excited to learn new things!
+- 🌱 I’m currently learning Data Science!
 - 📫 You can find me in https://www.linkedin.com/in/santiagocejas/
 <!---
 SantiagoCejas/SantiagoCejas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
